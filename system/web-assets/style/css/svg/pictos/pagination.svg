@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>pagination</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons_superprof" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pagination">
+            <rect id="Rectangle-3" fill="#393939" x="0" y="0" width="25" height="25" rx="5"></rect>
+            <path d="M9.64711538,17.9144747 C9.58005987,17.9683099 9.49787859,18 9.40909091,18 C9.18315624,18 9,17.7947972 9,17.5416667 C9,17.5410559 9.00000107,17.5404454 9.0000032,17.5398352 L9,12.5 L9,7.46016667 C9.00000107,7.4595546 9,7.45894411 9,7.45833333 C9,7.20520282 9.18315624,7 9.40909091,7 C9.49787859,7 9.58005987,7.03169005 9.64711538,7.0855253 L9.64759091,7.08525 L17.7577574,12.0813948 C17.9005228,12.1529307 18,12.3134499 18,12.5 C18,12.6865501 17.9005228,12.8470693 17.7577574,12.9186052 L9.64759091,17.91475 L9.64711538,17.9144747 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

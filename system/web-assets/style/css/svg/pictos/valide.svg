@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M153,20 C147.477153,20 143,15.5228475 143,10 C143,4.4771525 147.477153,0 153,0 C158.522847,0 163,4.4771525 163,10 C163,15.5228475 158.522847,20 153,20 Z M151.614857,11.41425 L149.362552,9.9575 L148,12.1945 L152.332884,15 L158.000066,6.49675 L155.890572,5 L151.614857,11.41425 Z" id="path-1"></path>
+    </defs>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mes-annonces-&gt;-Texte-2" transform="translate(-693.000000, -307.000000)">
+            <g id="TITRE" transform="translate(550.000000, 307.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#5BCA8D" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

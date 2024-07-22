@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ambassadeur_mini</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Annonce" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Annonce---Mobile-Ambassadeur" transform="translate(-130.000000, -374.000000)">
+            <g id="Group-7" transform="translate(130.000000, 374.000000)">
+                <g id="ambassadeur_mini" transform="translate(0.363636, 0.909091)">
+                    <path d="M15,0.828807556 L11.25,4.97284534 L7.5,1.13686838e-13 L3.75,4.97284534 L0,0.828807556 L0,11.8105077 C0,11.8105077 3.75,14.1818182 7.5,14.1818182 C11.25,14.1818182 15,11.8105077 15,11.8105077 L15,0.828807556 Z" id="Fill-1" fill="#FA6484"></path>
+                    <polygon id="Fill-3" fill="#CB5271" points="11.2776396 4.05194805 12.7118644 2.50304375 11.232526 0.253246753 9.91525424 2.28652131"></polygon>
+                    <polygon id="Fill-5" fill="#CB5271" points="3.68249125 4.05194805 5.08474576 2.18283158 3.72635068 0.253246753 2.28813559 2.50304375"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

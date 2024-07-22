@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="56px" viewBox="0 0 64 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>favourites-button-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons_superprof" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M57.3734393,6.59717716 C54.4125673,3.65372844 50.3959285,2 46.20764,2 C42.0193515,2 38.0027128,3.65372844 35.0418408,6.59717716 L31.9992323,9.62046189 L28.9566238,6.59717716 C22.7899231,0.469641788 12.791726,0.469641862 6.62502547,6.59717732 C0.458324907,12.7247128 0.458324833,22.6594107 6.62502531,28.7869462 L9.66763384,31.8102309 L31.9992323,54 L54.3308307,31.8102309 L57.3734393,28.7869462 C60.3357015,25.8448789 62,21.8537501 62,17.6920617 C62,13.5303733 60.3357015,9.53924448 57.3734393,6.59717716 Z" id="favourites-button-icon" stroke="#393939" stroke-width="3"></path>
+    </g>
+</svg>

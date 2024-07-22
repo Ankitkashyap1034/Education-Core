@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="10" cy="10" r="10"></circle>
+    </defs>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mes-annonces-&gt;-Texte-2" transform="translate(-663.000000, -476.000000)">
+            <g id="ENSEIGNEMENT" transform="translate(550.000000, 476.000000)">
+                <g id="Group" transform="translate(113.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FA6484" xlink:href="#path-1"></use>
+                    <rect id="Rectangle" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(10.000000, 10.000000) rotate(45.000000) translate(-10.000000, -10.000000) " x="5" y="9" width="10" height="2"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(10.000000, 10.000000) rotate(-45.000000) translate(-10.000000, -10.000000) " x="5" y="9" width="10" height="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
